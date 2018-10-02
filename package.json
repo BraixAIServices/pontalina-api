@@ -1,0 +1,32 @@
+{
+  "name": "pontalina-api",
+  "version": "1.0.0",
+  "description": "Chatbot especializado em Turismo do municipio de Pontal do Paraná.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BraixAIServices/pontalina-api.git"
+  },
+  "keywords": [
+    "chatbot",
+    "IA",
+    "AI",
+    "Pontal",
+    "do",
+    "Paraná"
+  ],
+  "author": "Erick Amarante da Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BraixAIServices/pontalina-api/issues"
+  },
+  "homepage": "https://github.com/BraixAIServices/pontalina-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "watson-developer-cloud": "^3.11.1"
+  }
+}
