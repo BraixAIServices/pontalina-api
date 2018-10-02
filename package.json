@@ -2,7 +2,7 @@
   "name": "pontalina-api",
   "version": "1.0.0",
   "description": "Chatbot especializado em Turismo do municipio de Pontal do Paraná.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
