@@ -27,6 +27,9 @@
   "homepage": "https://github.com/BraixAIServices/pontalina-api#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "botkit": "^0.6.16",
+    "crypto": "^1.0.1",
+    "dotenv": "^6.0.0",
     "express": "^4.16.3",
     "watson-developer-cloud": "^3.11.1"
   }
